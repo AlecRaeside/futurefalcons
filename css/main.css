@@ -1,0 +1,13 @@
+body {
+  width: 95%;
+  margin: 0 auto;
+}
+header h1 {
+  margin-left: auto;
+  text-align: center;
+}
+
+.logo {
+  max-height:400px;
+  max-width:100%;
+}
