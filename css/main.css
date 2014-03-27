@@ -21,6 +21,9 @@ main {
 iframe {
   max-width:100%;
 }
+h2 {
+  margin-top:32px;
+}
 
 .intro p {
   font-style: italic;
