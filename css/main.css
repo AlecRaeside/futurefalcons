@@ -12,6 +12,7 @@ header h1 {
 
 .logo {
   max-height:400px;
+  max-height:40vh;
   max-width:65%;
 }
 main {
