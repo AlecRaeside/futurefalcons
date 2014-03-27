@@ -6,8 +6,31 @@ header h1 {
   margin-left: auto;
   text-align: center;
 }
+.fb-link {
+  width:32px;
+}
 
 .logo {
   max-height:400px;
+  max-width:65%;
+}
+main {
+  text-align: center;
+}
+iframe {
   max-width:100%;
+}
+
+.intro p {
+  font-style: italic;
+}
+.shows p {
+  font-size:16px;
+}
+.shows__details {
+  width:320px;
+  margin: 0 auto;
+}
+.shows__details div {
+  text-align: left;
 }
